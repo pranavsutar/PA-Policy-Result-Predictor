@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "Documented failure, intolerance, or contraindication to topical therapy (topical corticosteroids, vitamin D analogs, etc)",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "NA",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "12",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "clinical response to therapy",
+  "reasoning": "TREMFYA requires documented failure, intolerance, or contraindication to topical therapy and may require step therapy with other biologics"
+}

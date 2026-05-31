@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Documented failure, contraindication, or ineffective response at maximum tolerated doses to a trial of corticosteroids or immunomodulators (e.g., azathioprine, 6-mercaptopurine, or methotrexate); OR Documented failure, contraindication, or ineffective response at maximum tolerated doses to a trial of a TNF modifier (e.g., adalimumab, certolizumab, or infliximab); OR Patient has evidence of high-risk disease for which corticosteroids or immunomodulators are inadequate and biologic therapy is necessary; OR Patient is already established on biologic or targeted synthetic therapy for the treatment of CD",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "disease response as indicated by improvement in signs and symptoms compared to baseline",
+  "tb_test_required": "Yes",
+  "reasoning": "patient continues to meet the universal and other indication-specific relevant criteria identified in section III | Prior authorization is required for STELARA for Plaque Psoriasis, with initial approval for 6 months and renewal annually thereafter, with specific dosing limits and specialist requirements. | Stelara is approved for patients who have failed or are not candidates for topical agents and phototherapy, or for patients with certain conditions such as Psoriatic Arthritis, Juvenile Psoriatic Arthritis, Crohn\u2019s Disease, Ulcerative Colitis, or immune checkpoint inhibitor-related toxicities. | Access to STELARA for Plaque Psoriasis is restricted to patients who do not have access to phototherapy or meet specific disease response criteria. | Stelara is approved for patients with moderate to severe plaque psoriasis who have failed or are intolerant to other treatments, including corticosteroids, immunomodulators, and TNF modifiers. | Patients under 12 years old, severe liver, renal, or cardiac disease, anatomical location deemed ineligible for phototherapy, or photosensitizing medications are not eligible for STELARA. | Stelara approval requires ustekinumab trough levels <4.5 micrograms/mL | No specific access restrictions mentioned in the policy text. | No specific access restrictions mentioned for STELARA in the provided policy text. | No specific prior authorization policy parameters are mentioned for STELARA in the provided text. | No access restrictions mentioned for STELARA in the provided policy text. | Prior authorization is required for STELARA in the treatment of plaque psoriasis, with specific requirements for patient age, baseline disease severity assessment, and therapy initiation/recommendation by a dermatologist or rheumatologist. | Stelara is approved for patients who have not responded adequately to topical agents and phototherapy, or for patients with specific conditions such as Psoriatic Arthritis, Juvenile Psoriatic Arthritis, and Crohn\u2019s Disease.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Gastroenterologist, Rheumatologist"
+}

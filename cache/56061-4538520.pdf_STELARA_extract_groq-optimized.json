@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Reauthorization requests must include a letter of medical necessity with chart notes demonstrating therapeutic benefit, as well as documentation of tolerance and absence of adverse events.",
+  "initial_auth_duration": "1",
+  "specialist_types": "NA",
+  "reasoning": "The step therapy requirements are explicitly stated in the approval criteria section, which outlines the necessary conditions for patients to be considered for Stelara. | The provided text does not mention step therapy requirements, but outlines specific dosing and administration guidelines for Stelara.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "Patients with plaque psoriasis must have trialed and failed a TNF blocker and at least one other therapy, including at least one topical agent, before being considered for Stelara. Similar step therapy requirements apply to patients with psoriatic arthritis, Crohn\u2019s disease, and ulcerative colitis. Patients must meet specific criteria, such as having a Psoriasis Area and Severity Index (PASI) score \u2265 12, before being eligible for Stelara.",
+  "reauth_duration": "4",
+  "quantity_limits": "NA",
+  "age": "FDA labelled age",
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

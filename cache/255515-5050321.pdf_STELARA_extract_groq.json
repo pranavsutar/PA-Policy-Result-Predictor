@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "History of failure to a 3 month trial of methotrexate at maximally indicated dose, unless contraindicated or clinically significant adverse effects are experienced (document date and duration of trial) OR Patient has been previously treated with a targeted immunomodulator FDA-approved for the treatment of psoriatic arthritis as documented by claims history or submission of medical records (Document drug, date, and duration of therapy) OR Both of the following: i. 6 sponsored program (e.g., sample card which can be redeemed at a pharmacy for a free supply of medication) as a means to establish as a current user of the requested ustekinumab product AND Patient is not receiving the requested ustekinumab product in combination with another targeted immunomodulator",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "Documentation of positive clinical response to the requested ustekinumab therapy AND Patient is not receiving the requested ustekinumab product in combination with another targeted immunomodulator",
+  "tb_test_required": "NA",
+  "reasoning": "moderate to severe plaque psoriasis, failure to topical therapies or methotrexate, or previous treatment with a targeted immunomodulator | Stelara is approved for patients with moderate to severe plaque psoriasis who have failed or been intolerant to at least one conventional DMARD and/or a biologic DMARD. | Patients must meet specific criteria to receive STELARA, including not receiving another targeted immunomodulator and being prescribed by a dermatologist, rheumatologist, or gastroenterologist. | Patients must meet specific criteria to receive STELARA for Plaque Psoriasis, including failure of previous treatments or prior use of targeted immunomodulators, and must be prescribed by a rheumatologist or dermatologist.",
+  "steps_through_generic": "1",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist, Gastroenterologist, Rheumatologist"
+}

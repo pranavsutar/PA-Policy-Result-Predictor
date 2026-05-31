@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "Inadequate response or adverse reaction to at least a 3 month trial of ONE biologic DMARD that is FDA-approved for plaque psoriasis, or an inadequate response or adverse reaction to at least a 3 month trial of any ONE of the following combinations: one topical agent plus one systemic agent; one topical agent plus one phototherapy; one systemic agent plus one phototherapy; two systemic agents; or a contraindication to ALL conventional therapies (topical agents, phototherapy, and systemic agents).",
+  "steps_through_brands": "1",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "6",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "Initial criteria has been met; and one of the following: the member has had a positive response to therapy; or documentation of clinical justification to continue therapy with the requested medication.",
+  "reasoning": "TREMFYA is approved for members who have tried and failed at least one biologic DMARD and have a contraindication to conventional therapies, or have tried and failed at least one combination of conventional therapies."
+}

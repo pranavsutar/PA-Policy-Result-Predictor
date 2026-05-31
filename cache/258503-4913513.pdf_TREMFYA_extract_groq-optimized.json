@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Authorization of 12 months may be granted for adult members who achieve or maintain a positive clinical response from Tremfya therapy as evidenced by low disease activity or improvement in signs and symptoms of the condition.",
+  "initial_auth_duration": "12",
+  "specialist_types": "Dermatologist",
+  "reasoning": "The policy requires prior use of a biologic or targeted synthetic drug for moderate to severe plaque psoriasis, with specific criteria for initial approval and reauthorization. | The pre-analysis results and source text do not provide explicit step therapy requirements, but rather specific authorization criteria. | The policy does not provide explicit step therapy requirements, but mentions precertification and dosing limits in accordance with FDA-approved labeling and evidence-based practice guidelines.",
+  "tb_test_required": "Yes",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "Authorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug indicated for the treatment of moderate to severe plaque psoriasis, or who meet specific criteria such as affected body surface area or crucial body areas.",
+  "reauth_duration": "12",
+  "quantity_limits": "NA",
+  "age": "FDA labelled age",
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

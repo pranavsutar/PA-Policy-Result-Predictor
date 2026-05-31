@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "NA",
+  "initial_auth_duration": "NA",
+  "specialist_types": "Rheumatologist",
+  "reasoning": "The policy does not explicitly mention step therapy requirements or reauthorization requirements for STELARA in the treatment of plaque psoriasis. | The analysis is based on the provided source text, which outlines specific criteria for step therapy requirements, but does not mention reauthorization requirements or phototherapy. | The step therapy requirements are based on the presence of DMARDs such as methotrexate, cyclosporine, or leflunomide in the source text. | The policy requires a member to have failed phototherapy or photochemotherapy and other specialty medications before being eligible for certain treatments, indicating a step therapy requirement. | The text does not provide clear step therapy requirements for STELARA, but mentions specific dosing requirements for other treatments.",
+  "tb_test_required": "Yes",
+  "steps_through_generic": "1",
+  "step_therapy_requirements": "Member must have not responded to at least one 30-treatment course of photochemotherapy or phototherapy, and must have tried and failed other specialty medications for moderate-to-severe plaque psoriasis. The specific criteria for trying and failing other medications include a 3-month trial period, unless clinically significant medical contraindications are documented.",
+  "reauth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": "FDA labelled age",
+  "steps_through_brands": "NA",
+  "step_through_phototherapy": "Yes",
+  "estimated_access_score": 50
+}

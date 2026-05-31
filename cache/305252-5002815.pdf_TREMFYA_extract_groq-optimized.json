@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "specialist_types": "Dermatologist",
+  "step_through_phototherapy": "No",
+  "step_therapy_requirements": "Patients with moderate-to-severe plaque psoriasis are candidates for systemic therapy or phototherapy, but there are no explicit step requirements detected. The treatment options include guselkumab, and patients may have previously tried conventional therapies or biologics. The criteria for step therapy are not clearly defined in the provided text.",
+  "steps_through_brands": "1",
+  "reasoning": "The policy requires previous treatment with a biologic or targeted synthetic drug for plaque psoriasis, with specific criteria for affected body areas or body surface area. | The policy requires prior use of a biologic or targeted synthetic drug for plaque psoriasis, as stated in the PsO Section. | The source text does not provide explicit step therapy requirements for TREMFYA, but mentions that concomitant use with other biologic drugs is not established. | The text does not provide explicit step therapy requirements or reauthorization requirements for TREMFYA. | The source text does not mention any specific step therapy requirements or reauthorization requirements for Tremfya.",
+  "steps_through_generic": "NA",
+  "reauth_duration": "NA",
+  "tb_test_required": "Yes",
+  "initial_auth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": "FDA labelled age",
+  "reauth_requirements": "Continuation of therapy is considered medically necessary for members who achieve or maintain a positive clinical response, as evidenced by low disease activity or improvement in signs and symptoms.",
+  "estimated_access_score": 50
+}

@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "Has tried and failed a TNF blocker and at least one other therapy to include at least one topical agent.",
+  "steps_through_brands": "2",
+  "steps_through_generic": "1",
+  "step_through_phototherapy": "No",
+  "tb_test_required": "Yes",
+  "quantity_limits": "NA",
+  "specialist_types": "NA",
+  "initial_auth_duration": "3",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "NA",
+  "reasoning": "TREMFYA is approved for adult patients with moderate to severe plaque psoriasis who have tried and failed a TNF blocker and at least one other therapy."
+}

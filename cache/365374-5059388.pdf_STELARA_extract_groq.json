@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "The member has taken two preferred cytokine and CAM antagonist drugs for at least three consecutive months each and experienced an unsatisfactory therapeutic response or experienced a clinically significant adverse drug reaction.",
+  "step_through_phototherapy": "NA",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "Renewal PA requests must include supporting clinical information and copies of the member's current medical records demonstrating that the member had a significant reduction in symptoms compared to their baseline prior to the initiation of the non-preferred cytokine and CAM antagonist drug.",
+  "tb_test_required": "NA",
+  "reasoning": "Non-preferred cytokine and CAM antagonist drugs used to treat ankylosing spondylitis or alopecia areata require prior authorization with specific clinical criteria. | Non-preferred cytokine and CAM antagonist drugs require clinical justification and approval for use in treating Psoriasis. | Non-preferred cytokine and CAM antagonist drugs require prior authorization with detailed clinical justification for prescribing instead of preferred drugs. | Stelara is a preferred treatment for Plaque Psoriasis, and non-preferred ustekinumab-xxxx drugs require detailed clinical justification for approval.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Rheumatologist"
+}

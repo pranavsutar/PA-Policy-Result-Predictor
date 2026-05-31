@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Documentation indicating member has shown improvement in signs and symptoms of disease is required for renewal approval.",
+  "initial_auth_duration": "6",
+  "specialist_types": "NA",
+  "reasoning": "The analysis is based on the provided clinical guideline for Cytokines and Cell Adhesion Molecule (CAM) Antagonists, which outlines specific step therapy requirements for various indications and medications. | The step therapy requirements are based on the clinical guideline for Plaque Psoriasis, which requires a trial of methotrexate or other oral systemic therapy before approving TREMFYA. | The pre-analysis results were incorrect, as the source text does mention phototherapy as a step requirement for plaque psoriasis treatment with certain medications. | The step therapy requirements are based on the preferred agents listed, including Enbrel, Humira/Amjevita Auto-Injector, and Kevzara.",
+  "tb_test_required": "Yes",
+  "steps_through_generic": "1",
+  "step_therapy_requirements": "Tremfya requires trial and failure of one preferred anti-TNF (Enbrel or Humira/Amjevita Auto-Injector) for Non-Preferred Cytokines and Cell Adhesion Molecule (CAM) Antagonists, and trial and failure of all preferred agents (Enbrel, Humira/Amjevita Auto-Injector, and Kevzara) for Non-Preferred Anti-Tumor Necrosis Factors (TNFs).",
+  "reauth_duration": "6",
+  "quantity_limits": "NA",
+  "age": ">=18",
+  "steps_through_brands": "2",
+  "step_through_phototherapy": "Yes",
+  "estimated_access_score": 50
+}

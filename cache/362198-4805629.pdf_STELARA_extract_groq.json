@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "3",
+  "step_therapy_requirements": "Member has tried and failed ALL of the following (unless clinically significant medical contraindications are documented): a. Adequate trial (e.g., 2-4-weeks) of one VERY-HIGH potency topical steroid; b. 6-week trial of Tacrolimus 0.1% ointment; c. 30-treatment course psoralen plus ultraviolet A (PUVA) photochemotherapy; d. 12-week trial of all of the following: i. One oral immunosuppressant (e.g., cyclosporine or methotrexate) A. HAP prefers the use of cyclosporine given the onset of action for management of GPP ii. One oral retinoid (e.g., acitretin) iii. Topical or oral dapsone iv. A HAP preferred biologic (e.g., infliximab, adalimumab) 3.",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "3",
+  "age": ">=18",
+  "reauth_requirements": "Continuation coverage is limited to Members who demonstrate clearing of 50% or greater of affected body surface area of plaque psoriasis",
+  "tb_test_required": "Yes",
+  "reasoning": "Member must have a clinical diagnosis of plaque psoriasis and must have tried and failed other treatments as outlined in the policy | Stelara is approved for plaque psoriasis, but requires a dermatologist or other specialist, and TB testing within 1 year prior to initiation. | Stelara is approved for Plaque Psoriasis (PsO) with no prior authorization policy parameters mentioned. | Stelara is approved for Plaque Psoriasis (PsO) with no prior authorization requirements mentioned. | Stelara is approved after trying and failing other specialty medications for plaque psoriasis, and after a poor response to phototherapy. | Stelara is not covered for the treatment of plaque psoriasis. | Member must have tried and failed multiple treatments before STELARA is approved",
+  "steps_through_generic": "4",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Rheumatologist"
+}

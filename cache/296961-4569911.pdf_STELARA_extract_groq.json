@@ -1,0 +1,15 @@
+{
+  "age": ">=6",
+  "step_therapy_requirements": "NA",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "2",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "Yes",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "6",
+  "reauth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_requirements": "NA",
+  "reasoning": "Prior authorization is required for STELARA for Plaque Psoriasis, with a requirement for trial and failure of at least two conventional therapies and a positive clinical response to therapy."
+}

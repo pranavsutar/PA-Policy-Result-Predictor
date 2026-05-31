@@ -1,0 +1,15 @@
+{
+  "age": ">=6",
+  "step_therapy_requirements": "Two of the following therapies: Enbrel, Humira, Otezla, Skyrizi for PsO; Two of the following therapies: Enbrel, Humira, Otezla, Xeljanz/XR for PsA; Humira for Crohn\u2019s Disease; Humira and Xeljanz/XR for Ulcerative Colitis",
+  "steps_through_brands": "2",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Gastroenterologist, Immunologist, Rheumatologist",
+  "initial_auth_duration": "6",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "continued benefit to therapy, clinical rationale for continuing",
+  "reasoning": "Stelara is approved for moderate to severe plaque psoriasis, psoriatic arthritis, Crohn\u2019s disease, and ulcerative colitis, with prior authorization required for all indications"
+}

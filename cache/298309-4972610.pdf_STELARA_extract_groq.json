@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Documented diagnosis and meeting specific criteria",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "4",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=12",
+  "reauth_requirements": "updated letter of medical necessity or progress notes showing improvement or maintenance with the medication",
+  "tb_test_required": "NA",
+  "reasoning": "STELARA (ustekinumab) is listed as a Formulary Shield Drug, but specific criteria for Plaque Psoriasis are not provided in the given text chunk. | Stelara is approved for Plaque Psoriasis (PsO) with specific requirements for disease severity and treatment failure of conventional therapies. | Quantity limits apply based on patient weight and age. | Stelara is approved for plaque psoriasis with age >=18, but has quantity limits and exclusions for concomitant diagnoses and liver impairment.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Rheumatologist"
+}

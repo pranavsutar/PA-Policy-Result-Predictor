@@ -1,0 +1,15 @@
+{
+  "specialist_types": "NA",
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "The member has experienced therapeutic failure or intolerance to phototherapy (e.g. PUVA, UVB) or at least one (1) systemic therapy (e.g., methotrexate).",
+  "step_through_phototherapy": "Yes",
+  "reauth_required": "No",
+  "reasoning": "BIMZELX is approved for moderate to severe plaque psoriasis in adults who are candidates for systemic therapy or phototherapy. | BIMZELX is approved for adult patients with moderate to severe chronic plaque psoriasis who are candidates for systemic therapy or phototherapy, and when other systemic therapies are medically less appropriate. | BIMZELX is approved for patients with moderate to severe plaque psoriasis who have failed to respond or have lost response to other systemic therapies. | Bimzelx may be approved for members 18 years of age or older with moderate to severe PsO who have experienced therapeutic failure or intolerance to phototherapy or systemic therapy and at least two preferred biologic products. | Prior authorization is required for BIMZELX for Plaque Psoriasis (PsO) when the member has experienced therapeutic failure or intolerance to phototherapy or at least one systemic therapy. | BIMZELX approval requires therapeutic failure or intolerance to phototherapy or at least one systemic therapy. | BIMZELX is approved for Plaque Psoriasis when the member has experienced therapeutic failure or intolerance to phototherapy or at least one (1) systemic therapy, and has failed at least two (2) preferred biologic products for the treatment of PsO. | BIMZELX approval requires age >=18, diagnosis of moderate to severe PsO, and therapeutic failure or intolerance to phototherapy or systemic therapy. | BIMZELX requires prior authorization for Plaque Psoriasis (PsO) patients who have failed or are intolerant to phototherapy and at least two preferred biologic products for PsO treatment.",
+  "steps_through_generic": "1",
+  "reauth_duration": "NA",
+  "tb_test_required": "NA",
+  "initial_auth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": ">=18",
+  "reauth_requirements": "NA"
+}

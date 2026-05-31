@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "For continuation requests, the member must have benefited with the use of this medication.",
+  "initial_auth_duration": "12",
+  "specialist_types": "Dermatologist",
+  "reasoning": "Step therapy requirements are determined based on the number of alternative treatments that must be ineffective or not tolerated before Stelara can be prescribed. | The step therapy requirements are based on the PA criteria for ENBREL, which includes a trial of methotrexate or acitretin for plaque psoriasis. | The step therapy requirements are based on the prior authorization criteria for plaque psoriasis, which requires a trial of methotrexate or acitretin. | The step therapy requirements are based on the prior authorization criteria for STELARA, which includes the failure of methotrexate or acitretin for plaque psoriasis. | The pre-analysis results were corrected based on the source text, which explicitly mentions step therapy requirements for plaque psoriasis and psoriatic arthritis.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "1",
+  "step_therapy_requirements": "For plaque psoriasis, one of the following must be ineffective or not tolerated: methotrexate at a dose of at least 10mg/week or acitretin. Additionally, Stelara is also subject to step therapy requirements where two of the following must be ineffective or not tolerated: Hadlima, Enbrel, Cosentyx, Skyrizi, Tremfya, or Otezla.",
+  "reauth_duration": "12",
+  "quantity_limits": "NA",
+  "age": "FDA labelled age",
+  "steps_through_brands": "2",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

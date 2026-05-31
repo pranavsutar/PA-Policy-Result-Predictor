@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "inadequate response or adverse reaction to one biologic DMARD that is FDA-approved for plaque psoriasis, or inadequate response or adverse reaction to at least a 3 consecutive month trial of any one of the following combinations: one topical agent plus one systemic agent, one topical agent plus one phototherapy, one systemic agent plus one phototherapy, or two systemic agents, or contraindication to methotrexate",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "NA",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "6",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "initial criteria has been met, and the member has had a positive response to therapy, or documentation of clinical justification to continue therapy with the requested medication",
+  "reasoning": "medical necessity, FDA-approved dosing, and clinical justification"
+}

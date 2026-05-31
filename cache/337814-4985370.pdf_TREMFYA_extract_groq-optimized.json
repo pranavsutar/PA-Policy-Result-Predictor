@@ -1,0 +1,16 @@
+{
+  "reauth_required": "NA",
+  "reauth_requirements": "NA",
+  "initial_auth_duration": "NA",
+  "specialist_types": "NA",
+  "reasoning": "The document outlines a step therapy criteria for Tremfya, requiring a trial of one or more preferred products before approval. | The source text does not mention step therapy requirements for TREMFYA, resulting in undetermined step therapy parameters.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "For new starts, Tremfya requires a step therapy criteria where the member must have had an inadequate response to one or more of the preferred products, or have had an intolerable adverse event to one or more of the preferred products, or the preferred products are contraindicated for the member.",
+  "reauth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": "NA",
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "NA",
+  "estimated_access_score": 50
+}

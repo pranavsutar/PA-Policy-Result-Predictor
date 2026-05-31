@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Patient has tried at least one traditional systemic agent for psoriasis for at least 3 months, unless intolerant",
+  "step_through_phototherapy": "NA",
+  "initial_auth_duration": "3",
+  "reauth_required": "Yes",
+  "reauth_duration": "3",
+  "age": ">=18",
+  "reauth_requirements": "Patient has been established on the requested drug for at least 3 months and experienced a beneficial clinical response",
+  "tb_test_required": "NA",
+  "reasoning": "Tremfya is not recommended for concurrent use with a biologic or targeted synthetic oral small molecule drug, and approval is not recommended for circumstances not listed in the Recommended Authorization Criteria. | No specific prior authorization policy parameters mentioned for TREMFYA in the provided text.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

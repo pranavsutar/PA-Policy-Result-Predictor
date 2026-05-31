@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_therapy_requirements": "The patient has tried at least one of the following agents for at least 3 months for plaque psoriasis: an oral therapy for psoriasis (e.g., MTX, cyclosporine, Soriatane\u00ae [acitretin tablets]); oral methoxsalen plus ultraviolet A light (PUVA); or a biologic agent (e.g., Humira, Remicade, or Stelara\u2122 [ustekinumab for SC injection])",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "3",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=4",
+  "reauth_requirements": "The patient has had a response (e.g., has improvement in limitation of motion; less joint pain or tenderness; decreased duration of morning stiffness or fatigue; improved function or activities of daily living, reduced dosage of corticosteroids), as determined by the prescriber.",
+  "tb_test_required": "NA",
+  "reasoning": "The patient meets the recommended authorization criteria for Plaque Psoriasis | Prior authorization is required for ENBREL for Plaque Psoriasis, with initial approval for 6 months and extended approval for 1 year if the patient responds to therapy. | ENBREL is approved for Plaque Psoriasis (PsO) if the patient is greater than or equal to 4 years of age and has tried at least one of the following agents for at least 3 months: an oral therapy for psoriasis, oral methoxsalen plus ultraviolet A light (PUVA), or a biologic agent. | Prior authorization is required for medical benefit coverage of etanercept for plaque psoriasis, with initial approval requiring a specialist's prescription and reauthorization requiring a response to therapy. | ENBREL is approved for patients who have tried at least one conventional therapy or biologic agent for plaque psoriasis, and is prescribed by or in consultation with a dermatologist, rheumatologist, ophthalmologist, gastroenterologist, or neurologist. | ENBREL approval requires prior therapy with corticosteroids and non-biologic DMARDs, or response to an etanercept product, or established treatment with ENBREL. | ENBREL is not recommended for the treatment of ocular sarcoidosis and large vessel vasculitis due to lack of evidence and efficacy. | No step therapy requirements or age restrictions are mentioned in the policy. | No specific access restrictions mentioned for ENBREL in the provided policy text.",
+  "steps_through_generic": "1",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Oncologist, Rheumatologist"
+}

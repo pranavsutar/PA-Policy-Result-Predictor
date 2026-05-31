@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "The member has taken two preferred cytokine and CAM antagonist drugs for at least three consecutive months each and experienced an unsatisfactory therapeutic response or experienced a clinically significant adverse drug reaction.",
+  "step_through_phototherapy": "NA",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "Renewal PA requests for non-preferred cytokine and CAM antagonist drugs must include supporting clinical information and copies of the member's current medical records demonstrating that the member had a significant reduction in symptoms compared to their baseline prior to the initiation of the non-preferred cytokine and CAM antagonist drug.",
+  "tb_test_required": "NA",
+  "reasoning": "TREMFYA requires step therapy for ankylosing spondylitis, with two preferred cytokine and CAM antagonist drugs required before approval, and is only available through a rheumatologist or dermatologist. | Non-preferred cytokine and CAM antagonist drugs require clinical justification and approval for use in treating Psoriasis. | TREMFYA requires step therapy with two preferred cytokine and CAM antagonist drugs for at least three consecutive months and experienced an unsatisfactory therapeutic response or experienced a clinically significant adverse drug reaction.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Rheumatologist"
+}

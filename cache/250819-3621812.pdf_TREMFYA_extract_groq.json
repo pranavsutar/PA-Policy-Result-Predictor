@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_through_phototherapy": "Yes",
+  "steps_through_generic": "1",
+  "tb_test_required": "Yes",
+  "age": ">=18",
+  "initial_auth_duration": "6",
+  "reauth_requirements": "Documentation indicating member has shown improvement in signs and symptoms of disease",
+  "reauth_duration": "6",
+  "reasoning": "TREMFYA requires a diagnosis of active moderate to severe Plaque Psoriasis confirmed by clinical criteria, and a trial of methotrexate is required for patients 18 years or older. | TREMFYA is approved for Plaque Psoriasis patients 18 years or older with documented inadequate response, intolerance, or contraindication to at least one oral systemic therapy such as methotrexate, or cyclosporine for 3 months or more | TREMFYA is approved for Plaque Psoriasis (PsO) with specific requirements, including phototherapy ineffectiveness and age restrictions. | TREMFYA is not mentioned in this policy text, so access restrictions are not applicable. | TREMFYA requires trial and failure of all preferred agents (Enbrel, Humira/Amjevita Auto-Injector, AND Kevzara), where indicated, in addition to all other clinical criteria. | TREMFYA is approved for Plaque Psoriasis patients 18 years of age or older with inadequate response to at least one oral systemic therapy such as methotrexate or cyclosporine for 3 months or more, or those with more than 10% of Body Surface Area affected, or sensitive areas that interfere with daily activities, or Psoriasis Area and Severity Index score more than 10, or phototherapy has been ineffective. | TREMFYA is not mentioned in the policy text, so there are no access restrictions. | TREMFYA is approved for Plaque Psoriasis and Psoriatic Arthritis with a quantity limit of 2 syringes or injectors in the initial 28 days then one syringe or injector every 8 weeks. | TREMFYA requires step therapy for certain conditions. | TB testing is required for patients receiving biologic medications.",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "Documented inadequate response or intolerable side effect to 2 Non-Steroidal Anti-Inflammatory Drugs, or member has a contraindication to Non-steroidal Anti-Inflammatory Drugs; documented inadequate response, or intolerable side effect to a 3-month trial of methotrexate; if member has an intolerance, or contraindication to methotrexate, a documented trial of leflunomide or sulfasalazine for 3 months is required",
+  "quantity_limits": "Yes",
+  "specialist_types": "Specialist"
+}

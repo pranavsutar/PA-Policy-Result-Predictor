@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "Yes",
+  "steps_through_generic": "NA",
+  "tb_test_required": "Yes",
+  "age": ">=18",
+  "initial_auth_duration": "NA",
+  "reauth_requirements": "positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition",
+  "reauth_duration": "NA",
+  "reasoning": "moderate to severe plaque psoriasis with specific criteria met | TREMFYA is approved for adult members who have previously received a biologic or targeted synthetic drug for moderate to severe plaque psoriasis, or for continuation of therapy. | TREMFYA is not approved for patients with active TB infection, and treatment for latent TB should be initiated prior to administering TREMFYA. | TREMFYA is approved for adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. | TREMFYA requires a negative tuberculosis test within 12 months of initiating therapy and cannot be used concomitantly with other biologic drugs or phototherapy.",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

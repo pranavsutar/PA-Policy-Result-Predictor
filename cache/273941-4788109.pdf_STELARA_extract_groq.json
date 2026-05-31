@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "an inadequate response or adverse reaction to at least a three consecutive month trial of one biologic DMARD that is FDA-approved for plaque psoriasis; OR an inadequate response or adverse reaction to at least a three month consecutive trial of one biologic DMARD that is FDA-approved for plaque psoriasis",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA",
+  "initial_auth_duration": "NA",
+  "reauth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_requirements": "NA",
+  "reasoning": "Stelara is approved for members meeting specific criteria, including age and trial of other biologic DMARDs, with phototherapy as a mandatory prerequisite."
+}

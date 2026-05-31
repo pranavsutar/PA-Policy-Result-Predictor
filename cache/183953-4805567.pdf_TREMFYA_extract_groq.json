@@ -1,0 +1,16 @@
+{
+  "age": "No",
+  "step_therapy_requirements": "Diagnosis of moderate-to-severe plaque psoriasis AND one of the following: Greater than or equal to 3% body surface area involvement, Severe scalp psoriasis, Palmoplantar (i.e., palms, soles), facial, or genital involvement AND Minimum duration of a 4-week trial and failure, contraindication, or intolerance to one of the following topical therapies: corticosteroids, vitamin D analogs, tazarotene, calcineurin inhibitors AND Prescribed by or in consultation with a dermatologist",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "1",
+  "step_through_phototherapy": "No",
+  "tb_test_required": "No",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "6",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "Patient demonstrates positive clinical response to therapy as evidenced by ONE of the following: Reduction in the body surface area (BSA) involvement from baseline, Improvement in symptoms (e.g., pruritus, inflammation) from baseline",
+  "reasoning": "The policy requires a diagnosis of moderate-to-severe plaque psoriasis, a minimum 4-week trial of topical therapies, and prescription by a dermatologist. The policy does not require step therapy through branded products, but does require a trial of generic topical therapies. Reauthorization requires demonstration of positive clinical response.",
+  "estimated_access_score": 80
+}

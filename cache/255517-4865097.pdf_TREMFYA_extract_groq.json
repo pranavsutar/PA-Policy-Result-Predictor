@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "0",
+  "step_therapy_requirements": "Yes, patient must have failed one of the following: topical therapies (corticosteroids, vitamin D analogs, tazarotene, calcineurin inhibitors, anthralin, coal tar), or a 3 month trial of methotrexate, or previously treated with a targeted immunomodulator FDA-approved for plaque psoriasis",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "Documentation of positive clinical response to Tremfya therapy and patient is not receiving Tremfya in combination with another targeted immunomodulator",
+  "tb_test_required": "NA",
+  "reasoning": "Moderate to severe plaque psoriasis with greater than or equal to 3% body surface area involvement, or palmoplantar, facial, genital involvement, or severe scalp psoriasis | TREMFYA requires a 30-day trial for Connecticut, Kentucky, and Mississippi business only, and may have supply limits in place.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist"
+}

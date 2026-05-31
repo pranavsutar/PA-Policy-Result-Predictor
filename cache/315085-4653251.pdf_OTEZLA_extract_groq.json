@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_therapy_requirements": "Patient has tried and had an inadequate response to at least ONE conventional prerequisite agent for the requested indication OR Patient has an intolerance or hypersensitivity to at least ONE conventional prerequisite agent for the requested indication OR Patient has an FDA labeled contraindication to at least ONE conventional prerequisite agent for the requested indication",
+  "step_through_phototherapy": "NA",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "Patient has been previously approved for the requested agent through the plan\u2019s Prior Authorization criteria AND ONE of the following: A. Patient has a diagnosis of moderate-to-severe atopic dermatitis AND the following: i. Patient will NOT be using the requested agent in combination with another biologic agent or a JAK inhibitor for the requested indication (e.g., Adbry, Cibinqo, Opzelura, Rinvoq) OR B. Patient has a diagnosis of moderate-to-severe asthma with an eosinophilic phenotype or oral corticosteroid dependent asthma AND BOTH of the following: i. Patient is currently being treated with AND will continue asthma control therapy (e.g., ICS, ICS/LABA, LRTA, LAMA, theophylline) in combination with the requested agent AND ii. Patient will NOT be using the requested agent in combination with Xolair or with an injectable interleukin 5 (IL-5) inhibitor (e.g., Cinqair, Fasenra, Nucala) for the requested indication OR C. Patient has a diagnosis of chronic rhinosinusitis with nasal polyposis (CRSwNP) AND the following: i. Patient will continue standard maintenance therapy (e.g., intranasal corticosteroid) in combination with the requested agent OR",
+  "tb_test_required": "NA",
+  "reasoning": "No specific access restrictions mentioned for OTEZLA in the provided policy text. | No prior authorization policy parameters found for OTEZLA for Plaque Psoriasis (PsO) | No prior authorization policy parameters are mentioned for OTEZLA in the provided text. | No specific access restrictions mentioned for OTEZLA in the provided policy text. | OTEZLA requires prior authorization for plaque psoriasis, with a prerequisite conventional agent required for approval | Prior authorization is required for patients under 30 years of age with specific diagnoses or indications supported in CMS approved compendia. | OTEZLA is approved for patients with plaque psoriasis, active psoriatic arthritis, or oral ulcers associated with Behcet\u2019s disease, after trying conventional prerequisite agents or having an intolerance/hypersensitivity to them | No prior authorization policy parameters for OTEZLA for Plaque Psoriasis (PsO) were found in the provided text.",
+  "steps_through_generic": "1",
+  "quantity_limits": "NA",
+  "specialist_types": "Allergist, Dermatologist, Immunologist"
+}

@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "yes, previous treatment with a biologic or targeted synthetic drug or phototherapy",
+  "steps_through_brands": "1",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "Yes",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "12",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "positive clinical response, reduction in body surface area (BSA) affected, or improvement in signs and symptoms",
+  "reasoning": "moderate to severe plaque psoriasis, crucial body areas affected, or at least 10% of body surface area (BSA) affected"
+}

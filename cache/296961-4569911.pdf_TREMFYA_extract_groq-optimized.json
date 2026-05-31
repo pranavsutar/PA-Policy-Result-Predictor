@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Documentation of positive clinical response to therapy is required for continuation of therapy.",
+  "initial_auth_duration": "6",
+  "specialist_types": "Dermatologist",
+  "reasoning": "The step therapy requirements are based on the criteria outlined in the source text, which specifies that patients must have failed at least two conventional therapies before being eligible for biologic response modifiers like TREMFYA. | The pre-analysis results and source text do not provide sufficient information to determine step therapy requirements for TREMFYA.",
+  "tb_test_required": "Yes",
+  "steps_through_generic": "2",
+  "step_therapy_requirements": "Patient must have a history of trial and failure of at least two conventional therapies, including topical corticosteroids, acitretin, topical Vitamin D analogs, calcineurin inhibitors, topical retinoic acid derivatives, or phototherapy, at maximally tolerated doses for two months each, unless contraindicated or clinically significant adverse effects are experienced.",
+  "reauth_duration": "6",
+  "quantity_limits": "NA",
+  "age": "FDA labelled age",
+  "steps_through_brands": "NA",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "specialist_types": "Dermatologist",
+  "step_through_phototherapy": "No",
+  "step_therapy_requirements": "The patient must have previously tried three preferred products, including a preferred ustekinumab product and two additional preferred products, due to inadequate treatment response or intolerance, or have a contraindication.",
+  "steps_through_brands": "3",
+  "reasoning": "The policy requires documentation of inadequate treatment response or intolerance to three preferred products for plaque psoriasis treatment. | The policy does not explicitly outline step therapy requirements, but instead focuses on clinical response and disease activity criteria for authorization. | The source text does not mention step therapy requirements or reauthorization requirements for TREMFYA.",
+  "steps_through_generic": "NA",
+  "reauth_duration": "12",
+  "tb_test_required": "Yes",
+  "initial_auth_duration": "12",
+  "quantity_limits": "NA",
+  "age": ">=18",
+  "reauth_requirements": "Chart notes or medical record documentation of decreased body surface area affected and/or improvement in signs and symptoms are required for continuation requests.",
+  "estimated_access_score": 50
+}

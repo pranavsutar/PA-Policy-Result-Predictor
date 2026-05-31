@@ -1,0 +1,15 @@
+{
+  "age": ">=6",
+  "step_therapy_requirements": "Trial and failure of \u2265 3 months of at least one (1) conventional systemic therapy, unless contraindicated or clinically significant adverse effects are experienced: a. Methotrexate [MTX] b. Cyclosporine c. Acitretin d. Phototherapy (psoralen plus ultraviolet A light [PUVA]).",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA",
+  "initial_auth_duration": "12",
+  "reauth_duration": "12",
+  "reauth_required": "No",
+  "reauth_requirements": "NA",
+  "reasoning": "Stelara is approved for Plaque Psoriasis after trial and failure of \u2265 3 months of at least one conventional systemic therapy, unless contraindicated or clinically significant adverse effects are experienced."
+}

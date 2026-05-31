@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Member must have benefited from the use of this medication for continuation requests. Approved for a duration of 1 year.",
+  "initial_auth_duration": "12",
+  "specialist_types": "Dermatologist",
+  "reasoning": "Step therapy requirements are explicitly mentioned in the source text for different conditions, including plaque psoriasis. | The step therapy requirements are based on the prior authorization criteria for ENBREL, which includes a trial of methotrexate or acitretin for plaque psoriasis. | The step therapy requirements are based on the prior authorization criteria for plaque psoriasis, which requires a trial of methotrexate or acitretin before approval. | The step therapy requirements are based on the criteria for plaque psoriasis, which requires a trial of methotrexate or acitretin before approving other treatments. | The step therapy requirements are explicitly mentioned in the source text, indicating a clear sequence of treatments before STELARA can be approved.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "1",
+  "step_therapy_requirements": "For plaque psoriasis, STELARA requires a patient to have tried and failed methotrexate at a dose of at least 10mg/week or acitretin before approval. This indicates a step therapy requirement through specific brands or generic medications. The prescriber must also be a dermatologist or in consultation with one.",
+  "reauth_duration": "12",
+  "quantity_limits": "NA",
+  "age": "FDA labelled age",
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

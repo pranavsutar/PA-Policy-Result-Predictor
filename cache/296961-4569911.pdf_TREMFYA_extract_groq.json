@@ -1,0 +1,16 @@
+{
+  "age": "No",
+  "step_therapy_requirements": "History of trial and failure of at least TWO of the following conventional therapies at maximally tolerated doses",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "2",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "Yes",
+  "quantity_limits": "Unspecified",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "6",
+  "reauth_duration": "NA",
+  "reauth_required": "Yes",
+  "reauth_requirements": "Documentation of positive clinical response to therapy",
+  "reasoning": "2 generic steps (trial and failure of at least TWO conventional therapies) are required before approval of TREMFYA for Plaque Psoriasis",
+  "estimated_access_score": 60
+}

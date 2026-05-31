@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Inadequate response or adverse reaction to at least a 3-month trial of one biologic DMARD that is FDA-approved for plaque psoriasis; OR inadequate response or adverse reaction to at least a 3-month trial of one conventional therapy",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "Initial criteria have been met; AND one of the following: the member has had a positive response to therapy; OR documentation of clinical justification to continue therapy with the requested medication",
+  "tb_test_required": "NA",
+  "reasoning": "No specific access restrictions mentioned for STELARA in the provided policy text.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Rheumatologist"
+}

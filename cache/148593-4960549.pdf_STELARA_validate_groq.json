@@ -1,0 +1,20 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "all of the following available equivalent alternative targeted immune modulators (one-month trial): both Ilumya, Stelara, and either Avsola, Inflectra, or Renflexis.",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_duration": "NA",
+  "age": ">=12",
+  "reauth_requirements": "NA",
+  "tb_test_required": "Yes",
+  "reasoning": "Stelara is medically necessary for the treatment of moderate to severe plaque psoriasis when criteria are met, including previous use of a biologic or targeted synthetic drug or failure of other targeted immune modulators. | No specific prior authorization policy parameters mentioned for STELARA in the provided text. | No step therapy requirements mentioned, but concomitant use of ustekinumab with other biologic drugs is considered experimental, investigational, or unproven. | Ustekinumab is approved for moderate to severe plaque psoriasis in patients 6 years and older who are candidates for phototherapy or systemic therapy, with a warning for risk of infections, tuberculosis, malignancies, hypersensitivity reactions, and noninfectious pneumonia. | TB testing is required prior to initiating ustekinumab therapy, and patients with active TB infection should avoid treatment. | No prior authorization policy parameters for STELARA for Plaque Psoriasis (PsO) are mentioned in the provided text. | No specific prior authorization policy parameters mentioned for STELARA in the treatment of Plaque Psoriasis (PsO) | No specific access restrictions mentioned for STELARA in the treatment of Plaque Psoriasis (PsO) | Stelara is approved for adults with moderate-to-severe psoriasis, but no step therapy requirements or quantity limits are mentioned. | Stelara is approved for adolescents (12 years of age or older) with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy. | This policy does not specify any access restrictions for STELARA in the treatment of Plaque Psoriasis (PsO). | Stelara (ustekinumab) is approved for the treatment of adult patients with moderately to severely active ulcerative colitis. | No prior authorization policy parameters are mentioned for STELARA for Plaque Psoriasis (PsO) | Stelara is approved for moderate to severe plaque psoriasis in adults and adolescents 12 years and older. | No specific prior authorization policy parameters mentioned for STELARA in the provided text.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA",
+  "corrections": [
+    "Changed age from >=6 years and older to >=12 years and older",
+    "Changed step_through_phototherapy from Yes to No",
+    "Changed specialist_types from Dermatologist to NA"
+  ]
+}

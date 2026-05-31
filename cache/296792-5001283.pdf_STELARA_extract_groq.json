@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "9",
+  "step_therapy_requirements": "Trials of two local therapies and one systemic therapy below are required unless all are contraindicated. Trials must result in an inadequate response after four consecutive months of use per medication or a severe adverse reaction.",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "Decreased or sustained reduction in disease activity and adherence",
+  "tb_test_required": "NA",
+  "reasoning": "STELARA is mentioned as an excluded agent, but with an effective date of 8/12/25, and the policy requires trial of preferred formulary agents unless contraindicated | Stelara is approved for patients with moderate to severe chronic plaque psoriasis who have tried two local therapies and one systemic therapy without adequate response. | Stelara requires a trial of all preferred formulary agents unless contraindicated, and a minimum of 6 months of therapy with an excluded interleukin inhibitor for grandfather status.",
+  "steps_through_generic": "2",
+  "quantity_limits": "NA",
+  "specialist_types": "NA"
+}

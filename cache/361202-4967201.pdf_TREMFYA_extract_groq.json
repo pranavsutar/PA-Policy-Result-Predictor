@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "History of failure to one of the following conventional therapies at up to maximally indicated doses unless contraindicated or clinically significant adverse effects are experienced: Corticosteroids (e.g., prednisone, methylprednisolone, budesonide), 6-mercaptopurine (Purinethol), Azathioprine (Imuran), Methotrexate (Rheumatrex, Trexall)",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_duration": "NA",
+  "age": ">=18",
+  "reauth_requirements": "NA",
+  "tb_test_required": "NA",
+  "reasoning": "The provided text does not contain information about Plaque Psoriasis treatment with TREMFYA, it seems to focus on Ulcerative Colitis and Crohn's Disease. | TREMFYA is approved for moderate-to-severe plaque psoriasis in adults who are candidates for systemic therapy or phototherapy. | TREMFYA is medically necessary for the treatment of Plaque Psoriasis when all of the following criteria are met: diagnosis of moderately to severely active PsO, history of failure to conventional therapies, and prescribed by or in consultation with a dermatologist.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA"
+}

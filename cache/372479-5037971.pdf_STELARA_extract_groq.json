@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Member has had a minimum duration of a 4-week trial and failure, or intolerance to ONE of the following topical therapies or contraindication to ALL of them: Corticosteroids, Vitamin D analogs, Tazarotene, Calcineurin inhibitors, Anthralin, Coal tar",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "Member must have demonstrated a clinical response to therapy (i.e. reduction in body surface area involvement or improvement in PASI score)",
+  "tb_test_required": "NA",
+  "reasoning": "Quantity limits apply for STELARA therapy, with varying limits based on condition and duration of therapy",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

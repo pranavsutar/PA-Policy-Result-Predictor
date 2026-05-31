@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_through_phototherapy": "Yes",
+  "steps_through_generic": "NA",
+  "tb_test_required": "Yes",
+  "age": ">=6",
+  "initial_auth_duration": "6",
+  "reauth_requirements": "Member achieves or maintains a positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition",
+  "reauth_duration": "6",
+  "reasoning": "Stelara and biosimilars are subject to quantity limits and approval duration restrictions. | TB testing is required for STELARA coverage.",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "Member is unable to take THREE preferred products due to inadequate treatment response or intolerance, or a contraindication",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist"
+}

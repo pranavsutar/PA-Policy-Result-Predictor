@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Members currently receiving treatment with a non-preferred product may be eligible for continuation, excluding samples or patient assistance programs, with specific criteria for certain products like Cimzia vials and Actemra IV.",
+  "initial_auth_duration": "NA",
+  "specialist_types": "NA",
+  "reasoning": "The policy requires prior authorization for non-preferred products and outlines specific exception criteria, but does not explicitly mention step therapy requirements or reauthorization requirements. | The policy requires a documented inadequate response, intolerable adverse event, or contraindication to preferred products, but does not specify a clear step therapy sequence or reauthorization requirements. | The step therapy requirements are determined based on the presence of specific language in the policy, including the need for inadequate response, intolerable adverse event, or contraindication to certain products. | The policy requires step therapy through specific branded products before approving non-preferred products, including Stelara. | The step therapy requirements are based on the presence of specific language in the source text indicating that members must have tried or failed certain preferred products before being eligible for non-preferred products.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "The member must have a documented inadequate response, intolerable adverse event, or contraindication to all of the following: Cosentyx SQ, Enbrel, Otezla, Rinvoq, Skyrizi SQ, Stelara SQ, Taltz, Tremfya SQ, and Xeljanz/Xeljanz XR, as well as adalimumab-adaz, Hyrimoz, or Hadlima. This applies to various non-preferred products, including Abrilada, adalimumab-aacf, adalimumab-aaty, and others. The specific criteria may vary depending on the product.",
+  "reauth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": ">=18",
+  "steps_through_brands": "2",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

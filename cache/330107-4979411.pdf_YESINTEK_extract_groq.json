@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_therapy_requirements": "Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "Member achieves or maintains a positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition",
+  "tb_test_required": "Yes",
+  "reasoning": "Prior authorization required for YESINTEK for Plaque Psoriasis (PsO) when previous medications tried (if applicable), including response to therapy, or clinical reason to avoid therapy is not documented. | Prior authorization is required for Yesintek (ustekinumab-kfce) for plaque psoriasis (PsO) in patients 6 years and older who are candidates for phototherapy or systemic therapy, with a negative tuberculosis (TB) test within 12 months of initiating therapy. | YESINTEK requires prior authorization for members 6 years of age and older with moderate to severe plaque psoriasis or psoriatic arthritis, with specific requirements for previous treatments and clinical response",
+  "steps_through_generic": "1",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist"
+}

@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Documentation of treatment failure with three or more of the following topical therapies for a duration of at least 4 weeks: Corticosteroids, Vitamin D analogs, Tazarotene, Calcineurin inhibitors, Coal Tar, Anthralin",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "4",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=12",
+  "reauth_requirements": "updated letter of medical necessity or progress notes showing improvement or maintenance with the medication",
+  "tb_test_required": "NA",
+  "reasoning": "Tremfya is listed as a preferred medication, but specific criteria for plaque psoriasis are not provided in the given text chunk | TREMFYA is approved for Plaque Psoriasis (PsO) with moderate to severe disease, after treatment failure or contraindication to phototherapy or conventional systemic immunosuppressant(s) | TREMFYA is approved for patients aged 18 years and above with plaque psoriasis, with quantity limits of 1 syringe or autoinjector for the first 28 days, then 1 syringe or autoinjector every 8 weeks. | TREMFYA is subject to quantity limits and requires reauthorization after 1 year with updated medical documentation. | No specific access restrictions mentioned for TREMFYA in the provided policy text.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Rheumatologist"
+}

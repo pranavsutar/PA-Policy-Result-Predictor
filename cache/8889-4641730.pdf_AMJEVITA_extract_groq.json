@@ -1,0 +1,16 @@
+{
+  "estimated_access_score": 70,
+  "age": "FDA labelled age",
+  "steps_through_generic": "1",
+  "quantity_limits": "Yes",
+  "reauth_duration": "12",
+  "tb_test_required": "No",
+  "reasoning": "The policy requires a trial of at least one non-biologic systemic therapy (e.g. methotrexate, cyclosporine, acitretin) or a contraindication to these therapies before approving AMJEVITA for Plaque Psoriasis. | The policy requires a trial of at least one non-biologic agent or phototherapy prior to initiating AMJEVITA for Plaque Psoriasis | The policy requires a step therapy approach with a non-biologic DMARD or phototherapy before initiating AMJEVITA for Plaque Psoriasis. | The policy requires previous treatment with a biologic or non-biologic DMARD for AMJEVITA, which is considered as one generic step | The policy requires one generic step, which is the use of topical corticosteroids, vitamin D analogs, or other non-biologic treatments, before AMJEVITA can be considered | The provided policy text does not contain specific information about AMJEVITA for Plaque Psoriasis, making it impossible to determine the required parameters. | The policy requires one generic step, which is the use of a non-biologic agent such as methotrexate or cyclosporine, before the use of a biologic agent like Amjevita for plaque psoriasis. | The patient must have tried and had an inadequate response to one conventional agent before being approved for Amjevita. | The policy requires at least a 3-month trial of conventional agents or other criteria before approving AMJEVITA for Plaque Psoriasis. | The patient must meet specific criteria, including trying and having an inadequate response to certain conventional agents or having specific diagnoses, and must be treated by a specialist. | The policy requires a step therapy approach with at least one generic agent before approving AMJEVITA for Plaque Psoriasis, and the patient must have tried and had an inadequate response to at least one of the Step 1 agents or have an intolerance or hypersensitivity to at least two of the Step 1 agents. | The policy requires at least one branded step and no generic steps for Amjevita, with a possible phototherapy step that does not count towards the step count.",
+  "initial_auth_duration": "12",
+  "reauth_requirements": "Criteria for renewal approval require ALL of the following: 1. Patient has been on the medication for at least 3 months, 2. Patient has shown a positive clinical response to therapy as evidenced by ONE of the following: improvement in psoriasis area and severity index (PASI) score, improvement in dermatology life quality index (DLQI) score",
+  "step_through_phototherapy": "No",
+  "specialist_types": "Dermatologist, Rheumatologist",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "The patient must have tried and had an inadequate response to one conventional agent (i.e., acitretin, anthralin, calcipotriene, calcitriol, coal tar products, cyclosporine, methotrexate, pimecrolimus, PUVA [phototherapy], tacrolimus, tazarotene, topical corticosteroids) used in the treatment of PS after at least a 3-month duration of therapy.",
+  "steps_through_brands": "1"
+}

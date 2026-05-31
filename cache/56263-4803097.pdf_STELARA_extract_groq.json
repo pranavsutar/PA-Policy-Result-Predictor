@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_therapy_requirements": "Minimum duration of a 4-week trial and failure, contraindication, or intolerance to one of the following topical therapies: corticosteroids, vitamin D analogs, tazarotene, calcineurin inhibitors",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "Patient demonstrates positive clinical response to therapy as evidenced by ONE of the following: Reduction in the body surface area (BSA) involvement from baseline, Improvement in symptoms (e.g., pruritus, inflammation) from baseline",
+  "tb_test_required": "Yes",
+  "reasoning": "STELARA is a biologic medication that is used to treat moderate to severe plaque psoriasis. The above requirements are in place to ensure that STELARA is used in an appropriate and cost-effective manner.",
+  "steps_through_generic": "1",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Rheumatologist"
+}

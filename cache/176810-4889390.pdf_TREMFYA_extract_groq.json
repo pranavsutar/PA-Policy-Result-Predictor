@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin.",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "Authorization of 12 months may be granted for all members who achieve or maintain positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition",
+  "tb_test_required": "Yes",
+  "reasoning": "Tremfya is considered not medically necessary for members who do not meet the criteria set forth above. | This policy does not specify any restrictions for TREMFYA for Plaque Psoriasis (PsO).",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

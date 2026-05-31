@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "Plaque psoriasis: Preferred agents require evidence of failure after at least 90 days of topical therapy* with two different agents classified as an emollient, corticosteroid, topical retinoid or vitamin D analog. A 90-day trial of one DMARD (or a systemic retinoid such as acitretin) is also required.",
+  "steps_through_brands": "2",
+  "steps_through_generic": "1",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "Yes",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Gastroenterologist, Rheumatologist",
+  "initial_auth_duration": "NA",
+  "reauth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_requirements": "NA",
+  "reasoning": "TREMFYA requires evidence of failure after at least 90 days of topical therapy and a 90-day trial of one DMARD for Plaque Psoriasis."
+}

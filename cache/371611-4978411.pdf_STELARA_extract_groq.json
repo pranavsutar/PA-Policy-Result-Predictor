@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_therapy_requirements": "History of failure to one of the following, unless all are contraindicated or not tolerated: phototherapy (UVB or PUVA) [minimum trial of 12 weeks]; OR treatment with at least one non-Cytokine and CAM DMARD (e.g., methotrexate, cyclosporine, acitretin, azathioprine, etc.) [minimum trial of 12 weeks]",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "Not used in combination with another Cytokine and CAM medication; AND documentation is submitted demonstrating disease stability or a positive clinical response (e.g., improvement in BSA, PASI, Psoriasis PGA, itch numeric rating scale); AND patient has met all criteria listed in Non-Clinical Policy No. 0001 (NC-001)",
+  "tb_test_required": "NA",
+  "reasoning": "Stelara is approved for adults with plaque psoriasis, with specific dosage and quantity limits based on patient weight and age. | Stelara is approved for adults < 100 kg with plaque psoriasis or psoriatic arthritis, with pediatric indications for patients 6-17 years old and < 100 kg, 60-100 kg, and > 100 kg. | Stelara is approved for plaque psoriasis in adults < 100 kg and pediatric patients (6-17 years old) with specific dosing requirements. | Stelara is not indicated for mild psoriasis, and phototherapy is a beneficial therapy for controlled plaque psoriasis. | No specific access restrictions mentioned for STELARA in the provided policy text. | A trial of a preferred biologic is required before approval of STELARA. | Stelara is approved for plaque psoriasis after a trial of at least one biologic agent and up to 12 doses per 12-month period.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist"
+}

@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "0",
+  "step_through_phototherapy": "NA",
+  "steps_through_generic": "1",
+  "tb_test_required": "NA",
+  "age": "Prescriber Restriction",
+  "initial_auth_duration": "12",
+  "reauth_requirements": "Member has benefited with use of this medication.",
+  "reauth_duration": "12",
+  "reasoning": "Stelara is approved for plaque psoriasis with prior authorization requirements, including trial of methotrexate or acitretin, and prescription by a dermatologist. | Prior authorization required for STELARA for Plaque Psoriasis due to lack of trial of methotrexate at a dose of at least 10mg/week or acitretin. | Prior authorization required for STELARA for plaque psoriasis, with a trial of methotrexate or acitretin required before approval",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "One of the following was ineffective or not tolerated: a) methotrexate at a dose of at least 10mg/week (or maximally tolerated dose) OR b) acitretin (trial of other agents not required for patients under 18 years of age)",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

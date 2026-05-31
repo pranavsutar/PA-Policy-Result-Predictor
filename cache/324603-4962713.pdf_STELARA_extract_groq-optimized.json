@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "specialist_types": "Dermatologist",
+  "step_through_phototherapy": "No",
+  "step_therapy_requirements": "Authorization of 12 months may be granted for members 6 years of age and older who have previously received a biologic or targeted synthetic drug indicated for treatment of moderate to severe plaque psoriasis, or when specific criteria such as affected body surface area or crucial body areas are met.",
+  "steps_through_brands": "1",
+  "reasoning": "The policy requires prior treatment with a biologic or targeted synthetic drug for moderate to severe plaque psoriasis, with specific criteria for authorization. | The policy does not explicitly mention step therapy requirements, but it outlines specific criteria for authorization and reauthorization of STELARA for plaque psoriasis treatment. | The analysis did not find any step patterns or requirements mentioned in the source text.",
+  "steps_through_generic": "NA",
+  "reauth_duration": "12",
+  "tb_test_required": "Yes",
+  "initial_auth_duration": "12",
+  "quantity_limits": "NA",
+  "age": ">=6",
+  "reauth_requirements": "Authorization of 12 months may be granted for members who achieve or maintain a positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition.",
+  "estimated_access_score": 50
+}

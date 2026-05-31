@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "Treatment with two preferred Cytokine and CAM Apple Health Preferred Drug List (PDL) medications has each been ineffective, unless all are contraindicated, or not tolerated [minimum trial of 12 weeks]",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=100",
+  "reauth_requirements": "Documentation is submitted demonstrating disease stability or a positive clinical response (e.g., improvement in BSA, PASI, Psoriasis PGA, itch numeric rating scale)",
+  "tb_test_required": "Yes",
+  "reasoning": "TREMFYA is approved for patients with plaque psoriasis and psoriatic arthritis, with varying dosing and approval periods based on patient weight and age. | TREMFYA is approved for patients with plaque psoriasis, with varying dosing and duration requirements based on patient age and weight. | TREMFYA is approved for plaque psoriasis with specific dosing and duration requirements. | TREMFYA is not explicitly mentioned in the policy text, but phototherapy is a mandatory prerequisite for patients with plaque psoriasis. | TREMFYA is approved after a trial of preferred biologics for non-preferred biologics. | TREMFYA is approved for patients who have tried and failed at least one biologic agent and have a positive TB test result.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist"
+}

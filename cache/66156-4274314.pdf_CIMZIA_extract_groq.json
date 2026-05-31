@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Yes, patient must have failed to respond or had inadequate response to at least one conventional immunosuppressive therapy for \u22656 months and/or a Humira product for 3 months",
+  "step_through_phototherapy": "NA",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "recent LFT\u2019s documented in patient records AND If LFTs are not within normal limits has the cannabidiol dose been adjusted per guidance for moderate to severe hepatic impairment in Table 1?",
+  "tb_test_required": "Yes",
+  "reasoning": "CIMZIA is approved for plaque psoriasis, and the step therapy requirements and approval duration are based on the decision-tree format | Topical agents for inflammatory skin disease are restricted to funded OHP diagnoses for adults with severe inflammatory skin diseases, including psoriasis. | CIMZIA is approved for patients 18 years and older with plaque psoriasis, with a 12-month initial authorization period. | CIMZIA requires TB testing, baseline liver function tests, and dose adjustment for hepatic impairment for approval and renewal.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Allergist, Dermatologist"
+}

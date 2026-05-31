@@ -1,0 +1,16 @@
+{
+  "specialist_types": "Dermatologist",
+  "step_therapy_requirements": "The member must have experienced therapeutic failure or intolerance to at least one systemic therapy (e.g., methotrexate) or be contraindicated to both phototherapy and systemic therapy, and also have experienced therapeutic failure or intolerance to at least two step 1 or 2 plan-preferred agents for the treatment of PsO.",
+  "steps_through_brands": "NA",
+  "tb_test_required": "NA",
+  "reauth_duration": "NA",
+  "steps_through_generic": 1,
+  "age": ">=18",
+  "step_through_phototherapy": "No",
+  "reasoning": "The analysis is based on the provided source text, which outlines the criteria for initial authorization and reauthorization of Ilumya for the treatment of plaque psoriasis. | The analysis is based on the provided source text, specifically the sections related to Plaque Psoriasis treatment criteria. | The step therapy requirements are based on the criteria mentioned for Taltz and Tremfya SC, which include therapeutic failure or intolerance to at least one systemic therapy or phototherapy. | Complex extraction failed",
+  "reauth_requirements": "The prescriber must attest that the member has demonstrated disease stability or a beneficial response to therapy.",
+  "quantity_limits": "NA",
+  "reauth_required": "Yes",
+  "initial_auth_duration": "NA",
+  "estimated_access_score": 50
+}

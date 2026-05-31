@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "3",
+  "step_through_phototherapy": "Yes",
+  "steps_through_generic": "NA",
+  "tb_test_required": "Yes",
+  "age": ">=18",
+  "initial_auth_duration": "12",
+  "reauth_requirements": "achievement or maintenance of a positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition",
+  "reauth_duration": "12",
+  "reasoning": "TB testing is required for patients starting TREMFYA.",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "The patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication.",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist"
+}

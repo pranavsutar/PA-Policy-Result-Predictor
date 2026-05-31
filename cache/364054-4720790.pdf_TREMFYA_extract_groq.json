@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "NA",
+  "steps_through_generic": "2",
+  "tb_test_required": "NA",
+  "age": "Prescriber Restriction",
+  "initial_auth_duration": "12",
+  "reauth_requirements": "Member has benefited with use of this medication",
+  "reauth_duration": "12",
+  "reasoning": "TREMFYA requires prior authorization for plaque psoriasis, with a 1-year approval duration, and requires a dermatologist's prescription.",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "One of the following was ineffective or not tolerated: a) methotrexate at a dose of at least 10mg/week (or maximally tolerated dose) OR b) acitretin.",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

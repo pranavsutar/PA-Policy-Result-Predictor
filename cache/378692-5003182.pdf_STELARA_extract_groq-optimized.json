@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "specialist_types": "Dermatologist",
+  "step_through_phototherapy": "No",
+  "step_therapy_requirements": "For plaque psoriasis, authorization may be granted for members who have previously received a biologic or targeted synthetic drug, or meet specific criteria such as affected body surface area or crucial body areas. For other indications, documentation of inability to take preferred products due to trial and inadequate treatment response or intolerance is required.",
+  "steps_through_brands": "3",
+  "reasoning": "The policy requires specific criteria to be met for authorization, including previous treatment with biologics or targeted synthetic drugs, and documentation of inadequate response or intolerance to preferred products. | The policy requires specific conditions to be met before approving Stelara, but does not explicitly mention step therapy requirements through brands or generics. | The policy does not explicitly mention step therapy requirements, but outlines specific approval and quantity restrictions for Stelara and its biosimilars. | The policy does not mention step therapy requirements or reauthorization requirements for Stelara.",
+  "steps_through_generic": "NA",
+  "reauth_duration": "12",
+  "tb_test_required": "Yes",
+  "initial_auth_duration": "12",
+  "quantity_limits": "NA",
+  "age": ">=6",
+  "reauth_requirements": "Authorization of 12 months may be granted for members who achieve or maintain a positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition.",
+  "estimated_access_score": 50
+}

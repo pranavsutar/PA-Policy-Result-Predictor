@@ -1,0 +1,17 @@
+{
+  "reauth_required": "NA",
+  "specialist_types": "NA",
+  "step_through_phototherapy": "Yes",
+  "step_therapy_requirements": "The member must have experienced therapeutic failure or intolerance to at least two preferred biologic products for the treatment of PsO and meet one of the following criteria: experienced therapeutic failure or intolerance to phototherapy, experienced therapeutic failure or intolerance to at least one systemic therapy, or be contraindicated to both phototherapy and systemic therapy.",
+  "steps_through_brands": "2",
+  "reasoning": "The approval criteria for Bimzelx require therapeutic failure or intolerance to two preferred biologic products and one of the specified conditions, as outlined in the PsO section of the policy. | The analysis is based on the provided source text, which outlines the approval criteria for various treatments, including the requirement for therapeutic failure or intolerance to certain therapies. | The analysis is based on the provided source text, which outlines the approval criteria for various biologic products, including the required step therapy and failure or intolerance to certain treatments. | The analysis is based on the provided source text, which outlines the criteria for approval of plaque psoriasis treatments, including the requirement for therapeutic failure or intolerance to specific biologic and systemic therapies. | The pre-analysis results were corrected as the source text explicitly mentions phototherapy as a step requirement, although it is not the only option.",
+  "steps_through_generic": "1",
+  "reauth_duration": "NA",
+  "tb_test_required": "NA",
+  "initial_auth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": ">=18",
+  "reauth_requirements": "NA",
+  "estimated_access_score": 50,
+  "corrections": null
+}

@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "Patients with mild or localized psoriasis should be treated with topical treatments. Patients with more extensive disease may require phototherapy and/or systemic agents. Patients with severe, refractory psoriasis (treatment failure to 1 or more DMARD) may be a candidate for biologic therapy.",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_duration": "NA",
+  "age": ">=18",
+  "reauth_requirements": "NA",
+  "tb_test_required": "NA",
+  "reasoning": "TREMFYA is a biologic agent that requires prior authorization and is typically used as a 2nd line or later treatment for plaque psoriasis. The specific requirements for prior authorization and the criteria for approval are not fully detailed in the provided text, but it is indicated that the treatment should be prescribed by a dermatologist. | TREMFYA is approved for treatment failure/documented intolerance to Adalimumab, Etanercept, or Infliximab, or for women who are currently pregnant or breastfeeding. | TREMFYA is approved for patients with severe, refractory psoriasis (treatment failure to 1 or more DMARD) after a trial of phototherapy and/or systemic agents. | TREMFYA is approved for adults with moderate-to-severe plaque psoriasis. | No step therapy requirements or quantity limits are mentioned in the policy text. | TREMFYA requires no prior authorization steps, but high-potency steroids have quantity limits and calcineurin inhibitors have efficacy and safety considerations.",
+  "steps_through_generic": "3",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

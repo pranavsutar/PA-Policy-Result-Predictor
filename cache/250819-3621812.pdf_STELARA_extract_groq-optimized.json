@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Documentation indicating member has shown improvement in signs and symptoms of disease is required for renewal approval.",
+  "initial_auth_duration": "6",
+  "specialist_types": "NA",
+  "reasoning": "The analysis is based on the provided clinical guideline for Cytokines and Cell Adhesion Molecule (CAM) Antagonists, which outlines specific step therapy requirements for various medications, including STELARA. | The pre-analysis results were verified against the source text, which confirms the step therapy requirements for Plaque Psoriasis. | The pre-analysis results were incorrect, as the source text implies that phototherapy is a required step before Stelara can be prescribed for plaque psoriasis. | The step therapy requirements are based on the preferred agents listed, including Enbrel, Humira/Amjevita Auto-Injector, and Kevzara.",
+  "tb_test_required": "Yes",
+  "steps_through_generic": "1",
+  "step_therapy_requirements": "For STELARA (Plaque Psoriasis), step therapy requirements include a documented inadequate response to a three-month trial of methotrexate, or if there is an intolerance or contraindication to methotrexate, a trial of sulfasalazine or leflunomide. Additionally, some medications require trial and failure of ONE preferred anti-TNF (Enbrel or Humira/Amjevita Auto-Injector) OR Kevzara, while others require trial and failure of ALL preferred agents (Enbrel, Humira/Amjevita Auto-Injector, AND Kevzara).",
+  "reauth_duration": "6",
+  "quantity_limits": "Yes",
+  "age": "FDA labelled age",
+  "steps_through_brands": "2",
+  "step_through_phototherapy": "Yes",
+  "estimated_access_score": 50
+}

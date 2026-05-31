@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Initial authorization will be placed for 12 months, and subsequent authorizations will be placed for 12 months based upon clinical response to therapy.",
+  "initial_auth_duration": "12",
+  "specialist_types": "Dermatologist",
+  "reasoning": "The policy outlines specific criteria for coverage of immunomodulators, including Tremfya, but does not explicitly require step therapy for preferred products like Tremfya. | The policy does not explicitly outline step therapy requirements, but rather provides dosing information for various medications and outlines the authorization and reauthorization process.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "Tremfya is considered a preferred product and does not require step therapy, but patients must have a diagnosis of moderate to severe plaque psoriasis, be ordered by a dermatologist, be 18 years or older, and have documented failure, intolerance, or contraindication to topical therapy.",
+  "reauth_duration": "12",
+  "quantity_limits": "NA",
+  "age": ">=18",
+  "steps_through_brands": "0",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

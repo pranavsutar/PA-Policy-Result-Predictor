@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Patient has experienced an inadequate treatment response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin, or pharmacologic treatment with methotrexate, cyclosporine, or acitretin is contraindicated, or patient has severe psoriasis that warrants a biologic as first-line therapy (i.e., at least 10% of the body surface area or crucial body areas [e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas] are affected).",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "3",
+  "reauth_required": "Yes",
+  "reauth_duration": "NA",
+  "age": ">=2",
+  "reauth_requirements": "clinical response documentation",
+  "tb_test_required": "NA",
+  "reasoning": "The provided text does not contain information about SKYRIZI for Plaque Psoriasis. | SKYRIZI is approved for patients with plaque psoriasis who have experienced an inadequate treatment response, intolerance, or contraindication to methotrexate or cyclosporine. | Prior authorization applies to patients 65 years of age or older, with restrictions on cumulative therapy days per year. | No prior authorization policy parameters found for SKYRIZI for Plaque Psoriasis (PsO) | SKYRIZI requires prior authorization for moderate to severe plaque psoriasis, with requirements including at least 3% body surface area affected, inadequate treatment response or intolerance to phototherapy or pharmacologic treatment, or severe psoriasis warranting a biologic as first-line therapy. | Moderate to severe plaque psoriasis requires at least 3% of body surface area to be affected or crucial body areas to be affected at the time of diagnosis, and the patient must have experienced an inadequate treatment response, intolerance, or contraindication to one of the listed products. | SKYRIZI is approved for patients with moderate to severe plaque psoriasis who have failed or are intolerant to phototherapy or pharmacologic treatment with methotrexate, cyclosporine, or acitretin, or have severe psoriasis that warrants a biologic as first-line therapy. | SKYRIZI is approved for patients with moderate to severe plaque psoriasis who have had an inadequate treatment response or intolerance to topical corticosteroids or phototherapy, or who have a contraindication to these treatments. | SKYRIZI is approved for patients with moderate to severe plaque psoriasis who have experienced an inadequate treatment response or intolerance to phototherapy or pharmacologic treatment with methotrexate, cyclosporine, or acitretin, or who have severe psoriasis that warrants a biologic as first-line therapy. | No specific restrictions mentioned for SKYRIZI, but it is prescribed for short-term or non-continuous chronic use.",
+  "steps_through_generic": "2",
+  "quantity_limits": "NA",
+  "specialist_types": "NA"
+}

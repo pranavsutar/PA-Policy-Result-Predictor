@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "3",
+  "step_therapy_requirements": "Patient must try and have an inadequate response, contraindication, or intolerance to a 3-month trial of AVSOLA AND INFLECTRA; OR Patient would have a life-threatening situation if required to meet step therapy requirements",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "Clinical response documentation",
+  "tb_test_required": "Yes",
+  "reasoning": "Patient must try and have an inadequate response, contraindication, or intolerance to a 3-month trial of AVSOLA AND INFLECTRA | Remicade requires prior authorization for Plaque Psoriasis, with step therapy requirements and TB testing necessary for approval | Patient must meet specific disease severity and treatment failure criteria before REMICADE can be approved for Plaque Psoriasis | REMICADE requires a 3-month trial of AVSOLA AND INFLECTRA or a life-threatening situation before approval, with dose escalation criteria and contraindications for heart failure | No specific prior authorization policy parameters mentioned for REMICADE in the treatment of Plaque Psoriasis (PsO) | No specific access restrictions mentioned for REMICADE in the provided policy text. | No specific prior authorization policy parameters mentioned for REMICADE in the provided text. | No specific access restrictions mentioned for REMICADE in the provided policy text. | Remicade is approved for plaque psoriasis with phototherapy as a mandatory prerequisite and requires a dermatologist's prescription.",
+  "steps_through_generic": "2",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

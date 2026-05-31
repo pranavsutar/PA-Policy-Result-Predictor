@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_through_phototherapy": "Yes",
+  "steps_through_generic": "3",
+  "tb_test_required": "Yes",
+  "age": ">=6",
+  "initial_auth_duration": "6",
+  "reauth_requirements": "Documentation indicating member has shown improvement in signs and symptoms of disease",
+  "reauth_duration": "6",
+  "reasoning": "Stelara is approved for patients with active moderate to severe Plaque Psoriasis who have failed or are intolerant to methotrexate | Stelara is approved for Plaque Psoriasis after a trial of at least one oral systemic therapy such as methotrexate, or cyclosporine for 3 months or more | Stelara is approved for patients with plaque psoriasis who have failed phototherapy or have sensitive areas affected by psoriasis. | Stelara is approved for 6 months with renewal approval for 6 months with documentation of improvement in signs and symptoms of disease. | Stelara is approved for Plaque Psoriasis (PsO) after trial and failure of all preferred agents (Enbrel, Humira/Amjevita Auto-Injector, AND Kevzara), where indicated, in addition to all other clinical criteria. | More than 10% of Body Surface Area is affected, or less than 10% Body Surface Area is affected but involves sensitive areas, or Psoriasis Area and Severity Index score more than 10 | No step therapy requirements for STELARA in PsO | Stelara is approved for adults with plaque psoriasis, with dosing based on weight. | Prior authorization is required for STELARA due to potential gastrointestinal bleeding, history of intolerance or adverse event, urticaria, or significant drug interaction. | TB testing is required for patients receiving biologic medications, including STELARA.",
+  "reauth_required": "Yes",
+  "step_therapy_requirements": "Documented inadequate response to a three-month trial of methotrexate. If there is an intolerance or contraindication to methotrexate, member can use sulfasalazine, leflunomide or hydroxychloroquine",
+  "quantity_limits": "Yes",
+  "specialist_types": "Specialist"
+}

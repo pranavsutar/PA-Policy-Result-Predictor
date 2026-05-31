@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "3",
+  "step_therapy_requirements": "Failure of a \u2265 3 consecutive month trial of methotrexate (MTX) at up to maximally indicated doses, or intolerance or contraindication to MTX, and failure of a \u2265 3 consecutive month trial of cyclosporine or acitretin at up to maximally indicated doses, unless clinically significant adverse effects are experienced or both are contraindicated, or intolerance or contraindication to MTX, cyclosporine, and acitretin, and failure of phototherapy, unless contraindicated or clinically significant adverse effects are experienced.",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "6",
+  "age": ">=6",
+  "reauth_requirements": "Member is responding positively to therapy and does not have combination use with biological disease-modifying antirheumatic drugs or Janus kinase inhibitors",
+  "tb_test_required": "NA",
+  "reasoning": "Prior authorization is required for ustekinumab products for plaque psoriasis if the member has failed a \u2265 3 consecutive month trial of methotrexate, or intolerance/contraindication to MTX and failure of a \u2265 3 consecutive month trial of cyclosporine or acitretin, or intolerance/contraindication to MTX, cyclosporine, and acitretin, and failure of phototherapy | Prior authorization may be required for ustekinumab products, including Yesintek, for patients with Psoriatic Arthritis, Ulcerative Colitis, or other diagnoses/indications not specifically listed under section III. | Prior authorization may be required for ustekinumab products due to combination use with biological disease-modifying antirheumatic drugs or Janus kinase inhibitors. | Prior authorization may be required for ustekinumab products, and member must try all preferred biosimilars before YESINTEK | Prior authorization may be required for ustekinumab products, and member must use all of the following preferred biosimilars, unless clinically significant adverse effects are experienced or all are contraindicated: Otulfi, Pyzchiva (branded), Selarsdi (or unbranded ustekinumab-aekn), Steqeyma, Yesintek. | Yesintek is approved for patients with moderate-to-severe PsO, with phototherapy as an alternative to systemic conventional DMARD if contraindicated or clinically significant adverse effects are experienced | YESINTEK requires prior authorization for members with a history of failure of biological disease-modifying antirheumatic drug or Janus kinase inhibitor as supported by 2024 AGA guidelines",
+  "steps_through_generic": "3",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Gastroenterologist, Rheumatologist"
+}

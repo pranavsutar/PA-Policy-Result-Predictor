@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "Patient did not respond adequately (or is not a candidate) to a 4-week minimum trial of at least TWO (2) therapeutically different topical agents; AND Patient did not respond adequately (or is not a candidate) to a 3-month minimum trial of at least ONE (1) non-biologic systemic agent; AND Patient did not respond adequately (or is not a candidate) to a 3-month minimum trial of phototherapy",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "6",
+  "reauth_required": "Yes",
+  "reauth_duration": "6",
+  "age": ">=6",
+  "reauth_requirements": "Disease response as indicated by improvement in signs and symptoms compared to baseline",
+  "tb_test_required": "NA",
+  "reasoning": "Moderate to severe plaque psoriasis with at least 3% body surface area involvement, or PASI score of 10 or greater, or incapacitation or serious emotional consequences due to plaque location, or intractable pruritis | No specific access restrictions mentioned for STELARA in PsO treatment",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA"
+}

@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Authorization of 12 months may be granted to members who were previously authorized and achieve or maintain a positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition.",
+  "initial_auth_duration": "12",
+  "specialist_types": "Dermatologist",
+  "reasoning": "The policy requires prior use of a biologic or targeted synthetic drug for moderate to severe plaque psoriasis, which is considered a step therapy requirement. | The step therapy requirements are based on the presence of previous biologic or targeted synthetic drug use or inadequate response to conventional synthetic drugs. | The source text does not provide explicit step therapy requirements, but outlines conditions for medication use and administration. | The analysis did not find explicit step therapy requirements or reauthorization criteria for STELARA in the provided source text.",
+  "tb_test_required": "Yes",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "Authorization of STELARA may be granted for members 6 years of age or older who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis, or who have had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug.",
+  "reauth_duration": "12",
+  "quantity_limits": "NA",
+  "age": ">=6",
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

@@ -1,0 +1,16 @@
+{
+  "reauth_required": "NA",
+  "reauth_requirements": "NA",
+  "initial_auth_duration": "NA",
+  "specialist_types": "Dermatologist",
+  "reasoning": "The step therapy requirements are based on the plan's clinical guideline coverage criteria for Plaque Psoriasis, which includes documentation of inadequate response to specific topical therapies. | The text does not mention specific step therapy requirements or reauthorization requirements for TREMFYA.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "1",
+  "step_therapy_requirements": "For Plaque Psoriasis, documentation of inadequate response to one of the following topical therapies is required: a corticosteroid, a vitamin D analog, tazarotene, calcineurin inhibitor, anthralin, or coal tar. Alternatively, contraindication to all of these topical therapies is also acceptable.",
+  "reauth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": ">=18",
+  "steps_through_brands": "NA",
+  "step_through_phototherapy": "NA",
+  "estimated_access_score": 50
+}

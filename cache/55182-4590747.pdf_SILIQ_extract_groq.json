@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "3",
+  "step_therapy_requirements": "The patient has tried and had an inadequate response to ONE conventional agent (i.e., acitretin, anthralin, calcipotriene, calcitriol, coal tar products, cyclosporine, methotrexate, pimecrolimus, PUVA [phototherapy], tacrolimus, tazarotene, topical corticosteroids) used in the treatment of PS after at least a 3-month duration of therapy OR The patient has an intolerance or hypersensitivity to ONE conventional agent used in the treatment of PS OR The patient has an FDA labeled contraindication to ALL conventional agents used in the treatment of PS OR The patient has severe active PS (e.g., greater than 10% body surface area involvement, occurring on select locations [i.e., hands, feet, scalp, face, or genitals], intractable pruritus, serious emotional consequences)",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "clinical response documentation",
+  "tb_test_required": "Yes",
+  "reasoning": "SILIQ is not mentioned in the provided text chunk, only Siliq (which is a different medication) is mentioned. | SILIQ is approved for patients with plaque psoriasis with no prior authorization requirements mentioned. | No step therapy requirements mentioned for SILIQ in the provided policy text. | Siliq for plaque psoriasis has a 16-week initial approval period and 12-month renewal approval period. | SILIQ is approved for patients with moderate to severe plaque psoriasis who have tried and failed conventional agents or have an intolerance or hypersensitivity to these agents. | SILIQ is approved for patients with certain conditions, including psoriasis, after trying and failing other treatments. | SILIQ is approved for patients who have tried/failed THREE of the Step 1 agents for the requested indication, or have an FDA labeled contraindication to ALL of the Step 1 agents for the requested indication, or have tried and had an inadequate response to Cosentyx 150 mg every 4 weeks after at least a 3-month duration of therapy. | Siliq for plaque psoriasis requires a 16-week approval period, and a TB test is required. | SILIQ is approved for patients with moderate to severe plaque psoriasis, atopic dermatitis, polymyalgia rheumatica, or other diagnoses with clinical benefit, and meets specific criteria for prior authorization. | No specific access restrictions mentioned for SILIQ (brodalumab) in the provided policy text.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "Syringes 28 DAYS",
+  "specialist_types": "Allergist, Dermatologist, Gastroenterologist, Immunologist, Rheumatologist"
+}

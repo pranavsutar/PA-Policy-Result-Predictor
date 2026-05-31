@@ -1,0 +1,16 @@
+{
+  "reauth_required": "Yes",
+  "reauth_requirements": "Reauthorization of 12 months may be granted to members who achieve or maintain a positive clinical response as evidenced by low disease activity or improvement in signs and symptoms of the condition.",
+  "initial_auth_duration": "12",
+  "specialist_types": "Dermatologist",
+  "reasoning": "The policy requires prior use of a biologic or targeted synthetic drug, such as Sotyktu or Otezla, for treatment of moderate to severe plaque psoriasis. | The policy does not explicitly mention step therapy requirements, but outlines specific clinical response criteria for reauthorization. | The policy does not mention specific step therapy requirements for STELARA, but it references various guidelines and literature for the management of psoriasis and psoriatic arthritis.",
+  "tb_test_required": "Yes",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "For moderate to severe plaque psoriasis, members 6 years and older who have previously received a biologic or targeted synthetic drug may be authorized for 12 months. Alternatively, authorization may be granted if crucial body areas are affected, at least 10% of body surface area is affected, or at least 3% of body surface area is affected with inadequate response or intolerance to other treatments.",
+  "reauth_duration": "12",
+  "quantity_limits": "NA",
+  "age": ">=6",
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "No",
+  "estimated_access_score": 50
+}

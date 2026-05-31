@@ -1,0 +1,20 @@
+{
+  "specialist_types": "NA",
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "Failure of a \u2265 3 consecutive month trial of at least ONE immunomodulator (e.g., azathioprine, 6-mercaptopurine [6-MP], methotrexate [MTX]) at up to maximally indicated doses, unless clinically significant adverse effects are experienced or all are contraindicated; or Failure of a \u2265 3 consecutive months trial of cyclophosphamide or mycophenolate mofetil, at up to maximally indicated doses, unless both are contraindicated or clinically significant adverse effects are experienced; or Failure of an 8-week trial of systemic corticosteroids, unless contraindicated or clinically significant adverse effects are experienced; or For Entyvio, Omvoh, Simponi, Velsipity, Zeposia: Failure of ALL of the following, each used for \u2265 3 consecutive months, unless clinically significant adverse effects are experienced or all are contraindicated (a, b, and c, see Appendix D): a.",
+  "step_through_phototherapy": "No",
+  "reauth_required": "Yes",
+  "reasoning": "Prior authorization required for Rinvoq for atopic dermatitis diagnosis, failure of topical corticosteroids and non-steroidal topical therapy, and concurrent biologic medication or JAK inhibitors. | OTULFI requires prior authorization for patients with moderate-to-severe plaque psoriasis, with specific requirements for age, step therapy, and previous treatments. | Member must meet specific requirements for age and failure of previous treatments before being approved for OTULFI | Prior authorization may be required for TNF blockers and certain biologic medications, with specific step therapy requirements and quantity limits. | OTULFI requires documentation that the member weighs > 20 kg for PsO if between ages 6 to < 18 years. | OTULFI is approved after TNF inhibitors or oral small molecules have been tried/failed, and at least one biologic therapy has been used. | OTULFI is approved for moderate-to-severe PsO with at least 3% BSA involvement for moderate-severe, at least 10% BSA involvement for chronic-severe, or areas that severely impact daily function. | OTULFI requires prior authorization due to step therapy requirements for immunomodulators, cyclophosphamide, mycophenolate mofetil, and systemic corticosteroids. | OTULFI is approved for PsO with certain restrictions, including no combination use of biological disease-modifying antirheumatic drugs or JAK inhibitors and dose limits.",
+  "steps_through_generic": "NA",
+  "reauth_duration": "6",
+  "tb_test_required": "NA",
+  "initial_auth_duration": "6",
+  "quantity_limits": "Yes",
+  "age": ">=6",
+  "reauth_requirements": "Dose does not exceed maximum dose indicated in Section V.",
+  "corrections": [
+    "specialist_types changed to NA",
+    "steps_through_generic changed to NA",
+    "step_through_phototherapy changed to No"
+  ]
+}

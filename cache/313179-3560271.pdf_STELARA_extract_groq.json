@@ -1,0 +1,15 @@
+{
+  "age": ">=6",
+  "step_therapy_requirements": "Plaque psoriasis: Preferred agents require evidence of failure after at least 90 days of topical therapy* with two different agents classified as an emollient, corticosteroid, topical retinoid or vitamin D analog. A 90-day trial of one DMARD (or a systemic retinoid such as acitretin) is also required.",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "2",
+  "step_through_phototherapy": "No",
+  "tb_test_required": "Yes",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Gastroenterologist, Rheumatologist",
+  "initial_auth_duration": "NA",
+  "reauth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_requirements": "NA",
+  "reasoning": "Stelara is approved for Plaque Psoriasis after failure of topical therapy and/or one DMARD, with a negative tuberculin skin test required."
+}

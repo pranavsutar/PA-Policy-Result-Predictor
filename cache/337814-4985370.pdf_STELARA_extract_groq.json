@@ -1,0 +1,15 @@
+{
+  "age": "NA",
+  "step_therapy_requirements": "NA",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "NA",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA",
+  "initial_auth_duration": "NA",
+  "reauth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_requirements": "NA",
+  "reasoning": "Stelara is not a preferred product and requires prior authorization for medical necessity."
+}

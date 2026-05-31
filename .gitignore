@@ -1,0 +1,34 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Pipeline artifacts (debug/prompts are dev-only)
+debug/
+prompts/
+manual_review.txt
+
+# Keep cache/ and output/ — they contain pre-computed results for deployment.
+# After running the full pipeline locally, commit cache/ so the deployed
+# Streamlit app can display results without re-running extractions.
+# (Streamlit Cloud has ephemeral storage — files written at runtime are
+# lost on restart.)
+
+# Data — PDFs are large; commit only if deploying with full dataset
+ads_extracted/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/

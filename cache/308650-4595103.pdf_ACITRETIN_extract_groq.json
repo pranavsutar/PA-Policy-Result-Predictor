@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "2",
+  "step_therapy_requirements": "a minimum duration of a 4-week trial and failure, contraindication, or intolerance to one of the following topical therapies: corticosteroids, vitamin D analogs, tazarotene, calcineurin inhibitors, anthralin, coal tar AND trial and failure, contraindication, or intolerance to ONE of the following: Cimzia, Humira, Skyrizi, Stelara, or Tremya.",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": "females of childbearing age",
+  "reauth_requirements": "Documentation of a positive clinical response to therapy as evidenced by one of the following: reduction in the total active (swollen and tender) joint count from baseline, or improvement in symptoms (e.g., pain, stiffness, inflammation) from baseline.",
+  "tb_test_required": "NA",
+  "reasoning": "patient has tried and failed therapy or had an intolerance to two FDA-approved commercially-available prescription therapeutic alternatives | ACITRETIN is approved for patients with moderate to severe chronic plaque psoriasis who have failed or are intolerant to topical therapies and biologic agents. | ACITRETIN is approved for patients with moderate to severe plaque psoriasis who have tried and failed other treatments, including Humira and Enbrel, and have had a trial of phototherapy. | ACITRETIN is approved for moderate to severe chronic plaque psoriasis with specific requirements for diagnosis, treatment history, and prescriber type. | ACITRETIN is approved for patients 18 years of age and older, prescribed by a dermatologist, with a 6-month initial approval period and a 12-month renewal period, requiring documentation of a positive clinical response to therapy.",
+  "steps_through_generic": "2",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

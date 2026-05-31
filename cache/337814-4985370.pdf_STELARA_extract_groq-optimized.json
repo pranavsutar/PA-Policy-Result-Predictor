@@ -1,0 +1,16 @@
+{
+  "reauth_required": "NA",
+  "reauth_requirements": "NA",
+  "initial_auth_duration": "NA",
+  "specialist_types": "NA",
+  "reasoning": "The policy requires trying a preferred product before a targeted product, with specific exceptions, indicating a step therapy requirement of at least one brand. | No step patterns matched but found multiple drug mentions, indicating a lack of explicit step therapy requirements for Stelara.",
+  "tb_test_required": "NA",
+  "steps_through_generic": "NA",
+  "step_therapy_requirements": "Step therapy requires trying one or more preferred products before a targeted product, with exceptions for inadequate response, intolerable adverse events, or contraindications.",
+  "reauth_duration": "NA",
+  "quantity_limits": "NA",
+  "age": "NA",
+  "steps_through_brands": "1",
+  "step_through_phototherapy": "NA",
+  "estimated_access_score": 50
+}

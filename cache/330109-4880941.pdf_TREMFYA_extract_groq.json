@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "3",
+  "step_therapy_requirements": "The patient is unable to take THREE preferred products",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "positive clinical response, reduction in body surface area (BSA) affected, or improvement in signs and symptoms",
+  "tb_test_required": "Yes",
+  "reasoning": "moderate to severe plaque psoriasis, crucial body areas affected, at least 10% of body surface area (BSA) affected, or inadequate response to previous treatments | TB testing is required for patients before starting TREMFYA.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "Yes",
+  "specialist_types": "Dermatologist"
+}

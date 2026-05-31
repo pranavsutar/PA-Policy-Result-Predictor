@@ -1,0 +1,16 @@
+{
+  "tb_test_required": "Yes",
+  "reauth_required": "Yes",
+  "age": "FDA labelled age",
+  "initial_auth_duration": "3",
+  "reauth_duration": "12",
+  "specialist_types": "NA",
+  "quantity_limits": "NA",
+  "step_through_phototherapy": "No",
+  "step_therapy_requirements": "Patients with plaque psoriasis must have tried and failed a TNF blocker and at least one other therapy, including at least one topical agent, before being considered for Tremfya. Similar requirements apply to patients with psoriatic arthritis and ulcerative colitis.",
+  "steps_through_brands": "1",
+  "steps_through_generic": "NA",
+  "reauth_requirements": "Reauthorization approval is granted for up to 12 months.",
+  "reasoning": "The prior authorization criteria explicitly outline the required steps before approving Tremfya, including failure of previous therapies.",
+  "estimated_access_score": 50
+}

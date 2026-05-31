@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "yes, previous biologic or targeted synthetic drug",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=6",
+  "reauth_requirements": "positive clinical response, reduction in body surface area affected, or improvement in signs and symptoms",
+  "tb_test_required": "Yes",
+  "reasoning": "moderate to severe plaque psoriasis, crucial body areas affected, or at least 10% body surface area affected | Stelara is approved for plaque psoriasis with a dermatologist's prescription.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist"
+}

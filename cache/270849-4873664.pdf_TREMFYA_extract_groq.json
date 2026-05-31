@@ -1,0 +1,15 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "Inadequate response to one of the following topical therapies: a corticosteroid, a vitamin D analog, tazarotene, calcineurin inhibitor, anthralin, or coal tar; Contraindication to all of the following topical therapies: corticosteroids, vitamin D analogs, tazarotene, calcineurin inhibitors, anthralin, and coal tar; Previous treatment with a biologic agent indicated for the requested use; The patient is new to the plan and has been stable on the requested agent prior to enrollment",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "NA",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist",
+  "initial_auth_duration": "NA",
+  "reauth_duration": "NA",
+  "reauth_required": "No",
+  "reauth_requirements": "NA",
+  "reasoning": "TREMFYA is approved for Plaque Psoriasis when a documented diagnosis is met, the patient is at least 18 years old, and one of the specified criteria is met."
+}

@@ -1,0 +1,16 @@
+{
+  "age": ">=18",
+  "step_therapy_requirements": "Trial and failure of \u2265 3 months of at least one (1) conventional systemic therapy (methotrexate, cyclosporin, acitretin) or phototherapy (psoralen plus ultraviolet A light), unless contraindicated or clinically significant adverse effects are experienced.",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "step_through_phototherapy": "Yes",
+  "tb_test_required": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA",
+  "initial_auth_duration": "12",
+  "reauth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_requirements": "Member is currently receiving medication in the past 120 days that has been authorized by RxAdvance or the member has met initial approval criteria.",
+  "reasoning": "TREMFYA is approved for patients with moderate to severe plaque psoriasis who have tried and failed at least one conventional systemic therapy or phototherapy.",
+  "corrections": null
+}

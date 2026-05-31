@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "NA",
+  "step_therapy_requirements": "a history of trial and failure of ONE of the following: 1) topical therapy (e.g. corticosteroid, calcineurin inhibitor, vitamin D analog), 2) phototherapy, 3) systemic treatment (e.g. methotrexate, cyclosporine, oral retinoids)",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "3",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "documentation of improvement or stabilization of the signs and symptoms of emphysema associated with alpha-1 antitrypsin deficiency including slowed progression of emphysema as evidenced by annual spirometry testing or a decrease in frequency, duration or severity of pulmonary exacerbations",
+  "tb_test_required": "NA",
+  "reasoning": "The provided text chunk does not contain any information about OTEZLA for Plaque Psoriasis. | OTEZLA is approved for members with plaque psoriasis who have failed or are intolerant to other treatments, and must be prescribed by a dermatologist. | OTEZLA is approved for members 18 years of age or older with a history of trial and failure of ONE of the following: topical therapy, phototherapy, or systemic treatment, and must be prescribed by a rheumatologist, gastroenterologist, ophthalmologist, or dermatologist. | OTEZLA is approved for members with severe plaque psoriasis, with a minimum BSA involvement of at least 3% and a history of trial and failure of one of the following: topical therapy, phototherapy, or systemic treatment.",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "Dermatologist, Gastroenterologist, Rheumatologist"
+}

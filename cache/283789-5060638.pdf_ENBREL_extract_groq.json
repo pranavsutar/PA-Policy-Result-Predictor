@@ -1,0 +1,15 @@
+{
+  "steps_through_brands": "1",
+  "step_therapy_requirements": "individual has had an inadequate response to, or is intolerant of, phototherapy or ONE other systemic therapy (such as, methotrexate, acitretin, or cyclosporine) OR has a contraindication to phototherapy, acitretin, cyclosporine, and methotrexate",
+  "step_through_phototherapy": "Yes",
+  "initial_auth_duration": "12",
+  "reauth_required": "Yes",
+  "reauth_duration": "12",
+  "age": ">=18",
+  "reauth_requirements": "clinically significant improvement or stabilization in clinical signs and symptoms of the disease AND has been receiving and is maintained on a stable dose of etanercept",
+  "tb_test_required": "NA",
+  "reasoning": "moderate to severe plaque psoriasis with either of the following: Individual has greater than 3% of body surface area with plaque psoriasis OR less than or equal to 3% of body surface area with plaque psoriasis involving sensitive areas or areas that would significantly impact daily function | ENBREL is approved for patients with moderate to severe plaque psoriasis who have had an inadequate response to phototherapy or one other systemic therapy, or have a contraindication to these treatments. | ENBREL is approved for patients with moderate to severe plaque psoriasis who have had an inadequate response to phototherapy or one systemic therapy, or have a contraindication to these treatments. | ENBREL is not mentioned in the provided policy text for Plaque Psoriasis (PsO).",
+  "steps_through_generic": "NA",
+  "quantity_limits": "NA",
+  "specialist_types": "NA"
+}

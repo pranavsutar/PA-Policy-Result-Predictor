@@ -1,0 +1,16 @@
+{
+  "tb_test_required": "NA",
+  "reasoning": "The step therapy requirements are based on the initial approval criteria for plaque psoriasis, which includes a diagnosis of moderate to severe plaque psoriasis and trial and failure of at least one conventional systemic therapy or phototherapy. | The policy does not mention specific step therapy requirements or reauthorization criteria for TREMFYA.",
+  "reauth_required": "Yes",
+  "step_through_phototherapy": "No",
+  "initial_auth_duration": "12",
+  "specialist_types": "NA",
+  "age": "No",
+  "reauth_duration": "12",
+  "step_therapy_requirements": "The patient must have a diagnosis of moderate to severe plaque psoriasis and have tried and failed at least one conventional systemic therapy (methotrexate, cyclosporin, acitretin) or phototherapy for at least 3 months. Phototherapy is mentioned as an option, but it is not mandatory.",
+  "quantity_limits": "NA",
+  "reauth_requirements": "The member must have met initial approval criteria or be currently receiving medication that has been authorized by RxAdvance within the past 120 days to be eligible for continued therapy approval.",
+  "steps_through_generic": "1",
+  "steps_through_brands": "NA",
+  "estimated_access_score": 50
+}

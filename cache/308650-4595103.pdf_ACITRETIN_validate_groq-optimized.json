@@ -1,0 +1,17 @@
+{
+  "tb_test_required": "NA",
+  "reauth_required": "NA",
+  "age": "NA",
+  "initial_auth_duration": "NA",
+  "reauth_duration": "NA",
+  "specialist_types": "NA",
+  "quantity_limits": "NA",
+  "step_through_phototherapy": "NA",
+  "step_therapy_requirements": "NA",
+  "steps_through_brands": "NA",
+  "steps_through_generic": "NA",
+  "reauth_requirements": "NA",
+  "reasoning": "Complex extraction failed",
+  "estimated_access_score": 50,
+  "corrections": null
+}
